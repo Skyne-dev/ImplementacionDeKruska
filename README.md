@@ -16,9 +16,6 @@ lAnimado en acción" width="600"/>
 
 ---
 
-## 📂 Estructura del Proyecto
-
-La arquitectura sigue el patrón **Modelo-Vista-Controlador (MVC)** para garantizar un código limpio, desacoplado y mantenible:
 
 ## 📂 Estructura del Proyecto
 
