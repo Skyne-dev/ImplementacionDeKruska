@@ -9,7 +9,7 @@
 **KruskalAnimado** es una herramienta educativa interactiva desarrollada en Java para visualizar el **Algoritmo de Kruskal**. A diferencia de otros simuladores, este proyecto permite explorar múltiples Árboles de Expansión Mínima (MST) cuando existen aristas con pesos iguales, utilizando un motor de búsqueda exhaustiva (DFS) con retroceso.
 
 <p align="center">
-  <img  alt="Kruska<img width="1601" height="921" alt="pantalla3" src="https://github.com/user-attachments/assets/a9be76fb-3e1d-485f-98ca-b0683d50d92b" />
+  <img width="1601" height="921" alt="pantalla3" src="https://github.com/user-attachments/assets/a9be76fb-3e1d-485f-98ca-b0683d50d92b" />
 
 </p>
 <img width="1258" height="570" alt="Captura de pantalla 2026-03-09 033349" src="https://github.com/user-attachments/assets/65da5692-447d-4df0-9267-e9adefe76f1f" />
